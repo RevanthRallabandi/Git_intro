@@ -7,3 +7,4 @@ git intro this is third
 
 Fourth line added
 
+This line is newly added
