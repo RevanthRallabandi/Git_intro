@@ -1,6 +1,8 @@
 This is the first line that I added
 This is the second line
 
+adding new to this 3rd
+
 
 Contribution: This is new line
 git intro this is third
